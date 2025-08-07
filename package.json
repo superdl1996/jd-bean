@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "@app/main": "*",
-    "ant-design-vue": "^4.2.6"
+    "ant-design-vue": "^4.2.6",
+    "ms": "^2.1.3"
   }
 }
