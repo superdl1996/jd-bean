@@ -33,7 +33,7 @@
     "electron": "36.1.0",
     "electron-builder": "26.0.12",
     "glob": "11.0.2",
-    "playwright": "^1.52.0",
+    "playwright": "^1.54.2",
     "unocss": "^66.1.2",
     "unplugin-vue-components": "^28.5.0"
   },
