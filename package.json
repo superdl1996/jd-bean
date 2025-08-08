@@ -34,7 +34,7 @@
     "electron-builder": "26.0.12",
     "glob": "11.0.2",
     "playwright": "^1.52.0",
-    "unocss": "^66.1.2",
+    "unocss": "^66.4.1",
     "unplugin-vue-components": "^28.5.0"
   },
   "dependencies": {
